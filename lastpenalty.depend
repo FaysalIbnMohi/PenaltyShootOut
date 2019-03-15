@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1524231587 source:c:\users\rajib\documents\penaltyshootout-master (1)\penaltyshootout-master - copy\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
+1524250141 source:c:\users\rajib\documents\penaltyshootout-master (1)\pso game\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
+1524276198 source:f:\download\cap\pso game\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
+1524276198 source:f:\download\cap\pso 02 game\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
+1524320454 source:c:\users\rajib\desktop\pso 02 game\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
+1524320454 source:c:\users\rajib\desktop\pso 02 game - copy\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
